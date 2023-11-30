@@ -1,0 +1,5 @@
+dbconfig-install boolean true
+app-password-confirm password yourpassword
+mysql/admin-pass password yourpassword
+mysql/app-pass password yourpassword
+reconfigure-webserver multiselect apache2
